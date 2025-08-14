@@ -1,4 +1,4 @@
-# 📊 Sistema de Filtro csv para Carga Manual
+# 📊 Sistema de Filtro CSV para Carga Manual
 
 Un sistema avanzado de procesamiento de datos que integra archivos csv con Google Sheets mediante autenticación OAuth2, diseñado para optimizar flujos de trabajo empresariales.
 
